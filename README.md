@@ -1,2 +1,2 @@
 # juup.hietbrink
-# juup.hietbrink/about/contact-us.html
+[test](doc:juup.hietbrink/about/contact-us.html)
