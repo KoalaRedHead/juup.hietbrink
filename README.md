@@ -1,2 +1,2 @@
 # juup.hietbrink
-[test](https://koalaredhead.github.io/juup.hietbrink/about/contact-us.html)
+[contact us](https://koalaredhead.github.io/juup.hietbrink/about/contact-us.html)
