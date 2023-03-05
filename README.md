@@ -1,2 +1,2 @@
 # juup.hietbrink
-[test](/main/about/contact-us.md)
+[test](/about/contact-us.md)
